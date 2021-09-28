@@ -1,0 +1,9 @@
+discord
+mss
+requests
+pyinstaller
+pyarmor
+sqlite3
+win32gui
+pycryptodome
+pywin32
