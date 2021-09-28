@@ -15,8 +15,8 @@ Change the Values of the settings to `True` or `False`
  - > Chrome Passwords
  - > Discord Tokens (Some Browsers)  
 ### Computer Control:
- -> All Power commands (shutdown, reboot, logoff and bsod)  
- -> Rotating Screen  
+ - > All Power commands (shutdown, reboot, logoff and bsod)  
+ - > Rotating Screen  
 ### Plugin Ideas TODO:
  - [ ] Firefox Password stealer
  - [ ] Edge Password Stealer + c4rds
